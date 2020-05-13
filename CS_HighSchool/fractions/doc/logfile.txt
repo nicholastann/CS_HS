@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.8.0_101\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-4.8.2.jar;C:\Program Files\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files\BlueJ\lib\userlib\pi4j-service.jar;H:\Computer Science\S-Spring\fractions
+-d
+H:\Computer Science\S-Spring\fractions\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+H:\Computer Science\S-Spring\fractions\fraction.java
+<---- end of javadoc command ---->
+Loading source file H:\Computer Science\S-Spring\fractions\fraction.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_101
+Building tree for all the packages and classes...
+Generating H:\Computer Science\S-Spring\fractions\doc\fraction.html...
+H:\Computer Science\S-Spring\fractions\fraction.java:20: warning - @param argument "numerator" is not a parameter name.
+H:\Computer Science\S-Spring\fractions\fraction.java:20: warning - @param argument "denominator" is not a parameter name.
+Generating H:\Computer Science\S-Spring\fractions\doc\package-frame.html...
+Generating H:\Computer Science\S-Spring\fractions\doc\package-summary.html...
+Generating H:\Computer Science\S-Spring\fractions\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating H:\Computer Science\S-Spring\fractions\doc\allclasses-frame.html...
+Generating H:\Computer Science\S-Spring\fractions\doc\allclasses-noframe.html...
+Generating H:\Computer Science\S-Spring\fractions\doc\index.html...
+Generating H:\Computer Science\S-Spring\fractions\doc\stylesheet.css...
+2 warnings

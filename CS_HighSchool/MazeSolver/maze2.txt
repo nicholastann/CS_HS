@@ -1,0 +1,16 @@
+xxxxxxxxxxxxxxx
+x      1      x
+xx    xxx    xx
+xxx         xxx
+xxxx       xxxx
+xxxxx     xxxxx
+xxxxxx   xxxxxx
+xxxxxxx xxxxxxx
+xxxxxx   xxxxxx
+xxxxxxx xxxxxxx
+xxxxx     xxxxx
+xxxx       xxxx
+xxx         xxx
+xx    xxx    xx
+x      2      x
+xxxxxxxxxxxxxxx

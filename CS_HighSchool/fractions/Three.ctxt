@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Three()
+comment1.params=a
+comment1.target=Three(int)
+comment2.params=a\ b
+comment2.target=Three(int,\ int)
+comment3.params=a\ b\ c
+comment3.target=Three(int,\ int,\ int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=java.lang.String\ superValues()
+numComments=6

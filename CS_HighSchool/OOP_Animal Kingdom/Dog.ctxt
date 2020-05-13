@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Dog
+comment1.params=
+comment1.target=Dog()
+comment2.params=name\ noise
+comment2.target=Dog(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ speak()
+comment4.params=
+comment4.target=java.lang.String\ fetch()
+numComments=5

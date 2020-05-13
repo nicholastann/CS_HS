@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Tann_MazeSolver
+comment1.params=
+comment1.target=void\ main()
+comment2.params=fileName\ scan
+comment2.target=java.util.ArrayList\ readMaze(java.lang.String,\ java.util.Scanner)
+comment3.params=a\ b
+comment3.target=boolean\ adjacent(Point,\ Point)
+comment4.params=coord
+comment4.target=boolean\ solvable(java.util.ArrayList)
+numComments=5

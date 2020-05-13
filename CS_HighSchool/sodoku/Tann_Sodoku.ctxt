@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tann_Sodoku
+comment1.params=
+comment1.target=void\ main()
+comment2.params=r\ c
+comment2.target=void\ solve(int,\ int)
+comment3.params=n\ r\ c
+comment3.target=boolean\ rowsafe(int,\ int,\ int)
+comment4.params=n\ r\ c
+comment4.target=boolean\ colsafe(int,\ int,\ int)
+comment5.params=n\ r\ c
+comment5.target=boolean\ boxsafe(int,\ int,\ int)
+numComments=6
